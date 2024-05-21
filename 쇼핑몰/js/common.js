@@ -1,3 +1,4 @@
+//쇼핑몰
 //popup
 $(document).ready(function(){
     $('.popupOpen').click(function(){
@@ -8,7 +9,6 @@ $(document).ready(function(){
         $('.popup').fadeOut(0);
     });
 });
-
 
 //gnb
 $(document).ready(function(){

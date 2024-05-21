@@ -1,3 +1,4 @@
+//이지팜
 //popup
 $(document).ready(function(){
     $('.popupOpen').click(function(){
